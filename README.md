@@ -1,3 +1,9 @@
+### Task Description
+
+  You got hired by a Web3 startup trying to build a novel solution to file sharing and
+  storage.
+  They would like to build a PoC to pitch to investors. The PoC will be a Decentralized Library, that allows users to upload files, retrieve files, share files with other users, and remove files from the service. These files could be articles, books, or similar. The default permission for uploads should be public.
+
 ###  📦 install 📚
 
 ```bash
