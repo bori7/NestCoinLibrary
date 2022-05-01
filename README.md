@@ -7,8 +7,8 @@
 ###  📦 install 📚
 
 ```bash
-git clone https://github.com/Epic-Byte/NestCoinFullStack
-cd NestCoinFullStack
+git clone https://github.com/bori7/NestCoinLibrary.git
+cd NestCoinLibrary
 yarn install
 ```
 
